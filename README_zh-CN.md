@@ -74,7 +74,7 @@ edgeone pages dev
 ## 📚 文档入口
 
 - **Flask 文档**：[https://flask.palletsprojects.com](https://flask.palletsprojects.com)
-- **EdgeOne Pages 文档**：[https://pages.edgeone.ai/document/cloud-functions/python](https://pages.edgeone.ai/document/cloud-functions/python)
+- **EdgeOne Pages 文档**：[https://pages.edgeone.ai/document/python](https://pages.edgeone.ai/document/python)
 
 ## 部署
 
